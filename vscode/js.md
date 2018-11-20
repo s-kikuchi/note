@@ -45,7 +45,7 @@ Copy below and paste on the configuration
 }
 ```
 
-The most important parameters are `program` and `args`.
+The most important parameters are `program` and `args`.
 
 - program 
     - Debugg target file.
