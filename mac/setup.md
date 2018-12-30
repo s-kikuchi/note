@@ -17,6 +17,7 @@ How to setup Mac
 - docker-compose
 - Postman
 - git
+- tig
 - mysql
 - nvm
 
@@ -56,6 +57,8 @@ brew cask install postman
 
 ## Git client
 brew install git
+
+brew install tig
 
 ## mysql client
 brew install mysql
