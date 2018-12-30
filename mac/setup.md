@@ -8,6 +8,7 @@ How to setup Mac
 - Skype
 - zoom.us
 - App Cleaner
+- Google Japanese IME
 - Evernote
 - Alfred
 - VSCode
@@ -37,6 +38,8 @@ brew cask install skype
 brew cask install zoomus
 
 brew cask install appcleaner
+
+brew cask install google-japanese-ime
 
 brew cask install evernote
 
