@@ -11,8 +11,6 @@ How to setup Mac
 - Google Japanese IME
 - Evernote
 - Alfred
-- Soundflower
-- LadioCast
 - VSCode
 - Xcode
 - iTerm2
@@ -45,10 +43,6 @@ brew cask install google-japanese-ime
 brew cask install evernote
 
 brew cask install alfred
-
-brew cask install soundflower
-
-Install LadioCast in AppStore
 
 brew cask install visual-studio-code
 
