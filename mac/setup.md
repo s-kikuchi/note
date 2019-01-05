@@ -12,6 +12,7 @@ How to setup Mac
 - Evernote
 - Alfred
 - VSCode
+- IntelliJ IDEA
 - Xcode
 - iTerm2
 - Docker
@@ -45,6 +46,8 @@ brew cask install evernote
 brew cask install alfred
 
 brew cask install visual-studio-code
+
+brew cask install intellij-idea
 
 xcode-select --install
 
