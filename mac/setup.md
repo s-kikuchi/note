@@ -50,6 +50,7 @@ brew cask install visual-studio-code
 brew cask install intellij-idea
 
 xcode-select --install
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 
 brew cask install iterm2
 
