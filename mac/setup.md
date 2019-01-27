@@ -15,6 +15,7 @@ How to setup Mac
 - IntelliJ IDEA
 - Xcode
 - iTerm2
+- Tunnelblick
 - Docker
 - docker-compose
 - Postman
@@ -55,6 +56,8 @@ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 brew cask install iterm2
 
 brew cask install docker
+
+brew cask install tunnelblick
 
 brew install docker-compose
 
