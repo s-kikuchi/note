@@ -17,6 +17,7 @@ How to setup Mac
 - Xcode
 - iTerm2
 - Tunnelblick
+- OpenVPN
 - Docker
 - docker-compose
 - Postman
@@ -61,6 +62,8 @@ brew cask install iterm2
 brew cask install docker
 
 brew cask install tunnelblick
+
+brew install openvpn
 
 brew install docker-compose
 
