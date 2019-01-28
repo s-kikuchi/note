@@ -9,6 +9,7 @@ How to setup Mac
 - zoom.us
 - App Cleaner
 - Google Japanese IME
+- Gyazo
 - Evernote
 - Alfred
 - VSCode
@@ -41,6 +42,8 @@ brew cask install zoomus
 brew cask install appcleaner
 
 brew cask install google-japanese-ime
+
+brew cask install gyazo
 
 brew cask install evernote
 
