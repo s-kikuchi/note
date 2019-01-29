@@ -18,6 +18,7 @@ How to setup Mac
 - iTerm2
 - TunnelBlick
 - easyrsa
+- OpenVPN
 - Docker
 - docker-compose
 - Postman
@@ -63,9 +64,9 @@ brew cask install tunnelblick
 
 brew install easy-rsa
 
-brew cask install docker
-
 brew install openvpn
+
+brew cask install docker
 
 brew install docker-compose
 
