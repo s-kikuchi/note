@@ -18,6 +18,7 @@ How to setup Mac
 - iTerm2
 - TunnelBlick
 - easyrsa
+- Karabiner-Elements
 - OpenVPN
 - Docker
 - docker-compose
@@ -63,6 +64,8 @@ brew cask install iterm2
 brew cask install tunnelblick
 
 brew install easy-rsa
+
+brew cask install karabiner-elements
 
 brew install openvpn
 
