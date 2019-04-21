@@ -1,4 +1,4 @@
-Install software
+Install basic software
 ===========================================
 
 ## List
