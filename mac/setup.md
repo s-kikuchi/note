@@ -17,9 +17,6 @@ How to setup Mac
 - Xcode
 - iTerm2
 - TunnelBlick
-- easyrsa
-- Karabiner-Elements
-- OpenVPN
 - Docker
 - docker-compose
 - Postman
@@ -64,12 +61,6 @@ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 brew cask install iterm2
 
 brew cask install tunnelblick
-
-brew install easy-rsa
-
-brew cask install karabiner-elements
-
-brew install openvpn
 
 brew cask install docker
 
