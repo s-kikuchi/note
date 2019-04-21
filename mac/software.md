@@ -1,7 +1,7 @@
-How to setup Mac
+Install software
 ===========================================
 
-## Software
+## List
 - Homebrew/Homebrew cask
 - Google Chrome
 - Slack
