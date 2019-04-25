@@ -1,5 +1,3 @@
-# bashrc
-```
 # alias
 alias ll='ls -al'
 
@@ -20,4 +18,3 @@ export NVM_DIR="$HOME/.nvm"
 export ANDROID_SDK="${HOME}/Library/Android/sdk"
 export PATH=${PATH}:${ANDROID_SDK}/emulator
 export PATH=${PATH}:${ANDROID_SDK}/platform-tools
-```
