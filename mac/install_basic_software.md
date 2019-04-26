@@ -26,6 +26,7 @@ Install basic software
 - nvm
 - SoundFlower
 - Ladiocast
+- CompareMerge Lite
 
 ## Procedure
 ```
@@ -86,4 +87,8 @@ brew cask install soundflower
 
 ## LadioCast
 Download from AppStore
+
+## CompareMerge Lite
+Download from AppStore
+
 ```
